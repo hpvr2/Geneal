@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Gedcom.js</file>
+        <file>Person.qml</file>
+        <file>SetInit.qml</file>
+        <file>Family.qml</file>
+    </qresource>
+</RCC>
